@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: larger;
+}
+
+.agregarTarea input {
+    width: 20vw;
+}
+
+.agregarTarea button {
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin-left: 1rem;
+}
+
+.agregarTarea {
+    display: flex;
+    justify-content: center;
+
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tasks {
+    text-align: center
+}
+
+.tablaTarea{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+ul {
+    list-style: none;
+}
+
+.parrafos {
+    display: flex;
+    justify-content: center;
+}
+
+.parrafos p {
+    margin: 0.5rem 3rem 0.5rem 3rem;
+}
